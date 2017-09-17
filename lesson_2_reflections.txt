@@ -1,3 +1,8 @@
 git staging allows you to only add files in which you want to commit where there maybe alot of files that have been changed
 
 adding a line to commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+staging area allows you to specify exactly which files you want to commit so you can branch out your commits! 
+
