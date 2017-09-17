@@ -9,3 +9,7 @@ staging area allows you to specify exactly which files you want to commit so you
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 branches will help keep features or changes to your project separate and commits will only retain to that branch instead of being jumbled up into it master branch 
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help understand where the branches are split into from the master branches and how the commit log history pertains to each branch ..
