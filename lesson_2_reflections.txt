@@ -13,3 +13,11 @@ branches will help keep features or changes to your project separate and commits
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help understand where the branches are split into from the master branches and how the commit log history pertains to each branch ..
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When you merge two branches together, it holds all the latest code from both branches.. typcially you merge a feature branch into master. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+If git can auto merge, that would be very easy and nice. manual is rquired when more inspection is required to determine how to merge conflicts 
