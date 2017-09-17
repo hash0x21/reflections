@@ -1,0 +1,1 @@
+git staging allows you to only add files in which you want to commit where there maybe alot of files that have been changed
